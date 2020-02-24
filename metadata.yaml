@@ -1,0 +1,29 @@
+_repo: An-Attempt-to-Analyse-the-Automaton-Chess-Player-of-Mr-De-Kempelen-To-Which-is-Added-a-Copiou__61410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Willis, Robert
+    alias: Willis, R. (Robert)
+    birthdate: 1800
+    deathdate: 1875
+    gutenberg_agent_id: '51412'
+    url: http://www.gutenberg.org/2009/agents/51412
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Willis_(engineer)
+description: ''
+gutenberg_issued: '2020-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61410'
+  lccn: '39031380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Kempelen, Wolfgang von, 1734-1804'
+- !lcsh 'Automaton chess players'
+- GITenberg
+title: "An Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen\r\nTo\
+  \ Which is Added, a Copious Collection of the Knight's Moves over the Chess Board"
+url: http://www.gutenberg.org/ebooks/61410
